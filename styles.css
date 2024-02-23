@@ -1,0 +1,88 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+img {
+    width: 100px;
+}
+
+#hero-section {
+    height: 343px;
+    background-image: url(images/torshov.jpg);
+    background-size: cover;
+    padding-bottom: 300px;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;   
+}
+
+#city-name {
+    background-color: #457B9D;
+    padding: 3px 12px;
+    border-radius: 15px;
+    margin: 0 0 5px 0;
+    margin: 200px 0 0 0;
+}
+
+#city-info {
+    width: 355px;
+    height: 39px;
+    font-size: 18.72px;
+    background-color: #1D3557;
+    padding: 6px 40px;
+    border-radius: 15px;
+    font-size: 18.72px; 
+}
+
+h3 {
+    color: #1D3557;
+    font-size: 24px;
+    
+}
+
+h4 {
+    color: #1D3557;
+}
+
+.activity-place-images {
+    border-radius: 100%
+}
+
+.activity {
+    width: 198px;
+    height: 227px;
+}
+
+#activity-section {
+    background-color: #F1FAEE;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+#activity-box {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+#guide-section {
+    width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    background: #A8DADC;
+    border-bottom: 8px solid #1D3557;
+    border-radius: 10px;
+}
+
+#per-image {
+    width: 180px;
+    height: 248.67px;
+}
+
+#per-info {
+    font-style: italic
+}
